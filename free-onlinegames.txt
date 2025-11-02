@@ -103,11 +103,12 @@
 ||spilgames.com^
 ||spil-gratis.dk^
 ||spil-online.dk^
-||spelletjes.nl^
+||spielletjes.nl^
 ||spelletjes-gratis.nl^
 ||spellen.be^
 ||spellen-online.be^
 ||spilonlinegames.com^
+||spiele-for-free.de^
 ||steamcommunity.com^
 ||sudoku.com^
 ||sudokukingdom.com^
@@ -122,4 +123,3 @@
 ||wormax.io^
 ||zynga.com^
 ||zylom.com^
-! Ende der aktualisierten Liste
